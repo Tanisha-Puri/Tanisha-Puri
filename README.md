@@ -7,7 +7,7 @@ Tech Enthusiast
 Hello! I’m Tanisha, an IT undergraduate at IIIT Allahabad. I’m passionate about leveraging technology to solve real-world problems. I enjoy learning, experimenting, and collaborating to create meaningful projects. I am an enthusiastic and detail-oriented IT engineering student with a solid grasp of programming languages like C++, Java and Python, and hands-on experience in web development projects and projects using Machine Learning. Proficient in UI/UX designing. I am eager to apply my technical skills in dynamic work environment where I can contribute to meaningful software solutions while continuing to learn and grow in this field.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Resume](http://drive.google.com/file/d/1EF6W126PqwZVS3xbP3LM-qjCcPzvpFnp/view?usp=drivesdk )
+* 🖥️  See my portfolio at [My Resume](https://drive.google.com/file/d/1czWRACbJTd6OQ6mosdVETUKZRdjKV7_4/view?usp=sharing )
 * ✉️  You can contact me at [tanishapuri50@gmail.com](mailto:tanishapuri50@gmail.com)
 
 ### Skills
